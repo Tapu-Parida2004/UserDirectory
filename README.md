@@ -98,7 +98,7 @@ Ensure you have the following installed: 01. Node.js 02. React Native CLI or Exp
 2.  React Navigation: Navigate between Screens
 3.  Axios: API
 4.  FlatList: Rendering the user list
-5.  ActivityIndicator:show A loading Spinner while fetching users.
+5.  ActivityIndicator: Show a loading Spinner while fetching users.
 
 
 # Submission Date: [18-12-2024]
